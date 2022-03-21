@@ -39,7 +39,7 @@ The goal of this project is to create a model that calculates the probability of
 
 ## Results<a name="results"></a>
 
-Can be found on file 3. Report.pdf.
+Can be found on https://medium.com/@italocosilva/predicting-probability-of-default-4616bcb2c5fa
 
 ### Instructions<a name="instructions"></a>
 
